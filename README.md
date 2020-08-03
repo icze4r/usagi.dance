@@ -2,6 +2,8 @@
 
 a dancing Usagi Tsukino, for you!
 
+<a href="usagi.html">clicky</a>
+
 make Sailor Moon dance with
 
 1 2 3 4 5 6 7 8 9 
