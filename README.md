@@ -2,7 +2,7 @@
 
 a dancing Usagi Tsukino, for you!
 
-<a href="usagi.html">clicky</a>
+<a href="https://icze4r.github.io/usagi.dance/usagi.html">clicky</a>
 
 make Sailor Moon dance with
 
